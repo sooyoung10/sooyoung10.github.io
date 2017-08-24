@@ -24,6 +24,7 @@ h1{
 
 
 .bottom li{
+	margin: 0px;
 	display: inline;
 	padding: 50px;
 }
