@@ -15,3 +15,9 @@ h1{
 a:hover{ 
 	color: #00fff2;
 }
+
+.menuBar li{
+	display: inline;
+	padding: 15px;
+	font-size: 20px;
+}
