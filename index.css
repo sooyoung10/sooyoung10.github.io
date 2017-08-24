@@ -12,6 +12,11 @@ h1{
 	font-size: 75px;
 }
 
+.menuBar{
+	float: center;
+    margin-right: 40px;
+}
+
 .menuBar a:hover{ 
 	color: #00fff2;
 }
@@ -22,9 +27,12 @@ h1{
 	font-size: 20px;
 }
 
+.bottom{
+	float: center;
+    margin-right: 40px;
+}
 
 .bottom li{
-	vertical-align: bottom;
 	margin: 0px;
 	display: inline;
 	padding: 50px;
