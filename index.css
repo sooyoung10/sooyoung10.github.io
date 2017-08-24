@@ -36,5 +36,9 @@ h1{
 }
 
 .linkedin{
-    background:##00fff2;
+    background:none;
+}
+
+.linkedin:hover{
+	background:#00fff2;
 }
