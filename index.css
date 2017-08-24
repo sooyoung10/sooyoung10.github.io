@@ -27,7 +27,7 @@ a:hover{
 }
 
 .bottom li{
-	
+	display: inline;
 }
 
 .icons{
