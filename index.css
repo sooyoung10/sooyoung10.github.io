@@ -27,6 +27,7 @@ a:hover{
 }
 
 .bottom{
+	display: inline;
 	margin-bottom: 0px;
 }
 
