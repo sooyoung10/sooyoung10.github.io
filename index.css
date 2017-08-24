@@ -23,8 +23,14 @@ a:hover{
 }
 
 .location{
-	margin-bottom: 0px;
 	margin-left: 0px;
-	height: 20px;
-	width: 10%;
+}
+
+.bottom{
+	margin-bottom: 0px;
+}
+
+.icons{
+	margin-right: 0px;
+
 }
