@@ -13,7 +13,7 @@ h1{
 }
 
 .menuBar{
-	float: center;
+	float: left;
     margin-right: 40px;
 }
 
@@ -28,7 +28,7 @@ h1{
 }
 
 .bottom{
-	float: center;
+	float: left;
     margin-right: 40px;
 }
 
