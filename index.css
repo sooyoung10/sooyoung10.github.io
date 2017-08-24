@@ -35,10 +35,6 @@ h1{
 	height: 140px;
 }
 
-.linkedin{
-    background:none;
-}
-
 .linkedin:hover{
-	background:#00fff2;
+	color:#00fff2;
 }
