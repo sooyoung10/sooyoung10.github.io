@@ -9,6 +9,10 @@ body {
 body {
   overflow: hidden;
 }
+
+div{
+  vertical-align: baseline;
+}
 .circle {
   color: #ffffff;
   position: absolute;
