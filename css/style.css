@@ -116,6 +116,7 @@ body {
 }
 
 .menu{
+  background-color: green;
   position: absolute;
   top: 40px;
   text-align: center;
