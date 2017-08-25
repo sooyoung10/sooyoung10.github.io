@@ -123,9 +123,9 @@ div{
 .menu{
   background-color: green;
   border-bottom: solid #ffffff;
-  margin-left: 300px;
-  margin-right: 300px;
-  margin-bottom:50px;
+/*  margin-left: 300px;
+  margin-right: 300px;*/
+  display: inline-block;
   position: absolute;
   width: 100%;
   top: 40px;
