@@ -154,7 +154,7 @@ a:visited{
 }
 
 .linkedin{
-    background: url('/icons/linkedin.png') center top no-repeat;
+    background: url('/icons/linkedin.png');
     display: inline-block;
     height: 30px;
     width: 30px;
