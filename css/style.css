@@ -117,8 +117,8 @@ div{
 
 .bottom li{
   display: inline;
-  padding: 15px;
-  font-size: 17px;
+  padding: 1vw;
+  font-size: 1vw;
 }
 
 .menu{
@@ -133,8 +133,8 @@ div{
 
 .menu li{
   display: inline;
-  padding: 15px;
-  font-size: 17px;
+  padding: 1vw;
+  font-size: 1vw;
 }
 
 /*unvisited*/
