@@ -120,7 +120,6 @@ body {
   position: absolute;
   top: 40px;
   width: 100%;
-  border-bottom: 1px #ffffff;
   text-align: center;
 }
 
@@ -133,6 +132,7 @@ body {
 /*unvisited*/
 a:link {
     color: #ffffff;
+    text-decoration: none;
 }
 
 /* visited link */
