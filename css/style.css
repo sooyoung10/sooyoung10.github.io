@@ -10,6 +10,7 @@ body {
   overflow: hidden;
 }
 .circle {
+  background-color: blue;
   color: #ffffff;
   position: absolute;
   top: 50%;
@@ -142,6 +143,12 @@ a:visited{
 /* mouse over link */
 .menu a:hover{
     font-weight:bold;
+}
+
+.linkedin{
+  background-image: url('icons/linkedin.png');
+   height: 30px;
+   width: 30px;
 }
 
 
