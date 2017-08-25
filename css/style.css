@@ -122,6 +122,7 @@ div{
 
 .menu{
   background-color: green;
+  border-bottom: solid #ffffff;
   position: absolute;
   width: 100%;
   top: 40px;
