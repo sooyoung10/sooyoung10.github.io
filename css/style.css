@@ -5,6 +5,7 @@ body {
   background-color: #222222;
   font-family: 'Nobile', sans-serif;
   color: #ffffff;
+  border: initial;
 }
 body {
   overflow: hidden;
