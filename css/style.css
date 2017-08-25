@@ -130,4 +130,20 @@ body {
   font-size: 17px;
 }
 
+/*unvisited*/
+a:link {
+    color: #ffffff;
+}
+
+/* visited link */
+a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+a:hover {
+    color: #00fff2;
+}
+
+
 
