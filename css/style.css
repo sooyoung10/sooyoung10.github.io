@@ -141,7 +141,7 @@ a:visited {
 }
 
 /* mouse over link */
-a:hover {
+.menu a:hover {
     color: #00fff2;
 }
 
