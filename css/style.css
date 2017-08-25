@@ -3,6 +3,7 @@ html,
 body {
   height: 100%;
   background-color: #222222;
+  font-family: 'Nobile', sans-serif;
 }
 body {
   overflow: hidden;
@@ -99,4 +100,10 @@ body {
     -webkit-transform: rotateZ(-360deg) scaleX(1) scaleY(1);
             transform: rotateZ(-360deg) scaleX(1) scaleY(1);
   }
+}
+
+.bottom li{
+  display: inline;
+  padding: 15px;
+  font-size: 20px;
 }
