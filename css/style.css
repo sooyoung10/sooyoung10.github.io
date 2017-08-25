@@ -160,6 +160,13 @@ a:visited{
     width: 30px;
 }
 
+.linkedin:hover{
+    content: url('icons/linkedin2.png');
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+}
+
 
 
 
