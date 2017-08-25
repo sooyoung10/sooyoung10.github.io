@@ -103,13 +103,6 @@ body {
   }
 }
 
-
-.bottom li{
-  display: inline;
-  padding: 15px;
-  font-size: 17px;
-}
-
 .menu{
   position: absolute;
   top: 40px;
