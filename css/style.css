@@ -123,7 +123,9 @@ div{
 .menu{
   background-color: green;
   border-bottom: solid #ffffff;
-  margin-bottom:10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom:50px;
   position: absolute;
   width: 100%;
   top: 40px;
