@@ -103,15 +103,30 @@ body {
   }
 }
 
-.bottom li{
-  display: inline;
-  padding: 15px;
-  font-size: 15px;
-}
-
 .bottom{
   position: absolute;
   bottom: 40px;
   width: 100%;
   text-align: center;
 }
+
+.bottom li{
+  display: inline;
+  padding: 15px;
+  font-size: 17px;
+}
+
+.menu{
+  position: absolute;
+  top: 40px;
+  width: 100%;
+  text-align: center;
+}
+
+.menu li{
+  display: inline;
+  padding: 15px;
+  font-size: 17px;
+}
+
+
