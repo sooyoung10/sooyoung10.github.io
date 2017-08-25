@@ -4,6 +4,7 @@ body {
   height: 100%;
   background-color: #222222;
   font-family: 'Nobile', sans-serif;
+  color: #ffffff;
 }
 body {
   overflow: hidden;
@@ -106,4 +107,7 @@ body {
   display: inline;
   padding: 15px;
   font-size: 20px;
+  position: fixed;
+  width: 50%;
+  bottom: 0;
 }
