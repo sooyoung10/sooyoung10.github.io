@@ -130,19 +130,23 @@ body {
 }
 
 /*unvisited*/
-a:link {
+a:link{
     color: #ffffff;
     text-decoration: none;
 }
 
 /* visited link */
-a:visited {
+a:visited{
     color: #ffffff;
 }
 
 /* mouse over link */
-.menu a:hover {
+.menu a:hover{
     color: #00fff2;
+}
+
+.menuBorder{
+  border-bottom: 1px solid #ffffff;
 }
 
 
