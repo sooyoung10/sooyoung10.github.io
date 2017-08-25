@@ -5,7 +5,7 @@ body {
   background-color: #222222;
   font-family: 'Nobile', sans-serif;
   color: #ffffff;
-  border: initial;
+  margin: initial;
 }
 body {
   overflow: hidden;
@@ -123,11 +123,10 @@ div{
 
 .menu{
   border-bottom: solid #ffffff;
-/*  margin-left: 300px;
-  margin-right: 300px;*/
   display: block;
+  margin-left: 37.5%;
   position: absolute;
-  width: 100%;
+  width: 25%;
   top: 40px;
   text-align: center;
 }
