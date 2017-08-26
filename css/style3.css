@@ -63,15 +63,15 @@ a:visited{
 .linkedin{
     content: url('icons/linkedin.png');
     display: inline-block;
-    height: 30px;
-    width: 30px;
+    height: 2vw;
+    width: 2vw;
 }
 
 .linkedin:hover{
     content: url('icons/linkedin2.png');
     display: inline-block;
-    height: 30px;
-    width: 30px;
+    height: 2vw;
+    width: 2vw;
 }
 div.container {
     margin-top: 130px;
@@ -97,6 +97,7 @@ div.box {
 }
 
 .box p{
+  font-size: 1.25vw;
   margin-top: 2.5%;
 }
 
