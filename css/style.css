@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:700|Nobile:500);
 html,
 body {
-  position:absolute
   height: 100%;
   background-color: #222222;
   font-family: 'Nobile', sans-serif;
@@ -9,7 +8,7 @@ body {
   margin: initial;
 }
 body {
-  overflow-y: auto;
+  overflow: hidden;
 }
 
 div{
@@ -110,9 +109,8 @@ div{
 }
 
 .bottom{
-  position: relative;
-  top: 20px;
-  padding-bottom: 15px;
+  position: absolute;
+  bottom: 40px;
   width: 100%;
   text-align: center;
 }
@@ -167,21 +165,6 @@ a:visited{
     display: inline-block;
     height: 30px;
     width: 30px;
-}
-div.container {
-    margin-top: 130px;
-    width: 80%;
-    margin-left:10%;
-    text-align: center;
-}
-
-div.box {
-    box-sizing: border-box;
-    width: 33.33%;
-    height:20vw;
-    border: 1px solid white;
-    float: left;
-    padding: 10px;
 }
 
 
