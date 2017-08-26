@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:700|Nobile:500);
 html,
 body {
-  position:absolute
   height: 100%;
   background-color: #222222;
   font-family: 'Nobile', sans-serif;
