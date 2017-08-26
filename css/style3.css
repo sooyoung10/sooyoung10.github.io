@@ -90,7 +90,15 @@ div.box {
     padding-bottom: 10px;
     padding-right: 10px;
     padding-left: 10px;
+}
 
+.box img{
+  width: 100%;
+  border: 1px solid white;
+}
+
+.box p{
+  margin-top: 2.5%;
 }
 
 
