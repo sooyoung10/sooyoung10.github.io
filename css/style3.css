@@ -86,6 +86,11 @@ div.story {
     margin-left:25%;
 }
 
+div.story p {
+  line-height: 130%;
+}
+
+
 div.box {
     box-sizing: border-box;
     width: 33.33%;
