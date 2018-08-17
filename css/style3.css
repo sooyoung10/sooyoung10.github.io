@@ -103,6 +103,34 @@ div.box {
   margin-top: 2.5%;
 }
 
+div.container {
+    margin-top: 130px;
+    width: 80%;
+    margin-left:10%;
+    text-align: center;
+}
+
+div.box {
+    box-sizing: border-box;
+    width: 33.33%;
+    height:20vw;
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.box img{
+  width: 100%;
+  max-height: 83%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.box p{
+  font-size: 1.25vw;
+  margin-top: 2.5%;
+}
 
 
 
