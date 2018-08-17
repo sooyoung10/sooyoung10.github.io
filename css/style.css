@@ -126,7 +126,7 @@ div{
   border-bottom: solid #ffffff;
   display: inline-block;
   margin-left: 37.5%;
-  position: absolute;
+  position: relative;
   width: 25%;
   top: 40px;
   text-align: center;
