@@ -6,6 +6,7 @@ body {
   font-family: 'Nobile', sans-serif;
   color: #ffffff;
   margin: initial;
+  overflow-y: hidden;
 }
 body {
   overflow-y: scroll;
@@ -168,10 +169,12 @@ a:visited{
 }
 
 div.story {
-    margin-top: 130px;
     width: 50%;
     margin-left:25%;
     font-size: 14px;
+    position: absolute;
+    top: 50%;
+    margin-top: -170px;
 }
 
 div.story p {
