@@ -6,6 +6,7 @@ body {
   font-family: 'Nobile', sans-serif;
   color: #ffffff;
   margin: initial;
+  overflow-y: hidden;
 }
 body {
   overflow-y: scroll;
