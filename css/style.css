@@ -167,6 +167,15 @@ a:visited{
     width: 2vw;
 }
 
+div.story {
+    margin-top: 130px;
+    width: 50%;
+    margin-left:25%;
+}
+
+div.story p {
+  line-height: 130%;
+}
 
 
 
